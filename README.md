@@ -22,4 +22,7 @@ So in the end, after each show we can feed the algorithm the latest scores and h
 
 We'll train the model on the data of seasons 1, 2 and 4 and use season 3 as validation set. After we found the right model, we'll retrain the model using all 4 seasons in the hope of having an even better prediction model for the upcoming season 5.
 
+## The output
+Part 1: Finding a model for episode 1 can be found [here on RPubs](http://rpubs.com/Grueff/GABO_Part1)
+
 
